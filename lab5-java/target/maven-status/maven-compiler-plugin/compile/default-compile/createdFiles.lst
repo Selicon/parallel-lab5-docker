@@ -1,0 +1,5 @@
+com\parallel5\DailyErrorStatisticCounter.class
+com\parallel5\Main.class
+com\parallel5\Record.class
+com\parallel5\CollectorOf500Errors.class
+com\parallel5\SlidingWindowStatistics.class

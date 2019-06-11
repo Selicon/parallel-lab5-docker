@@ -1,0 +1,2 @@
+(GET /cgi-bin/BrokerQuery.pl?query=oms%04%06%06&host=titan04.ksc.nasa.gov%3A8501&caseflag=on&wordflag=on&errorflag=0&opaqueflag=on&descflag=on&verbose=on&maxresultflag=50 HTTP/1.0,1)
+(POST /images/launchmedium.gif HTTP/1.0,6)

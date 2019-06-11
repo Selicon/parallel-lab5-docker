@@ -1,0 +1,4 @@
+(GET /cgi-bin/geturlstats.pl HTTP/1.0,53)
+(GET /cgi-bin/BrokerQuery.pl?query=oms&host=titan04.ksc.nasa.gov%3A8501&caseflag=on&wordflag=on&errorflag=0&opaqueflag=on&descflag=on&verbose=on&maxresultflag=50 HTTP/1.0,3)
+(POST /ksc.html HTTP/1.0,18)
+(GET /history/apollo/./ HTTP/1.0,2)

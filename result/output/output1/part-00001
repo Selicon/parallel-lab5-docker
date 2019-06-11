@@ -1,0 +1,7 @@
+(POST /shuttle/missions/sts-45/sts-45-patch-small.gif HTTP/1.0,2)
+(POST /shuttle/missions/51-i/51-i-patch-small.gif HTTP/1.0,2)
+(POST /images/getstats.gif HTTP/1.0,5)
+(POST / HTTP/1.0,2)
+(POST /shuttle/missions/sts-73/sts-73-patch-small.gif HTTP/1.0,2)
+(POST /shuttle/missions/sts-6/sts-6-patch-small.gif HTTP/1.0,2)
+(GET /images/./ HTTP/1.0,1)
